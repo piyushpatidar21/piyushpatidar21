@@ -66,34 +66,6 @@ I build backend systems and AI-powered tools — from REST APIs connected to dat
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🤖 [Marketing Planning Agent](https://github.com/piyushpatidar21/marketing_planner_agent)
-*Jan 2026 – Feb 2026*
-
-An AI-powered conversational marketing assistant that turns high-level marketing goals into actionable strategies, budgets, and execution schedules using multi-step reasoning and automated web research.
-
-- **Problem:** Turning a vague marketing goal into a concrete, actionable plan usually takes manual research and strategic thinking.
-- **Solution:** An agent-based system that breaks the goal into steps, researches relevant information, and produces a structured strategy, budget, and schedule.
-- **Key capabilities:** Multi-step agentic reasoning, automated web research, conversational interface, structured plan generation.
-- **Tech stack:** `Python` `LangChain` `LLM API` `Agentic AI` `Streamlit`
-- **What I learned:** Designing agent reasoning chains, managing multi-step LLM workflows, and structuring LLM output into usable, actionable formats.
-
----
-
-#### 📊 [EduTrack – Student Performance Tracker](https://github.com/piyushpatidar21/EduTrack)
-*Aug 2025 – Dec 2025 · Team of 3*
-
-A web application that helps teachers manage students, classes, subjects, and academic records — with grade prediction and performance visualization.
-
-- **Problem:** Teachers need an easy way to track student performance and identify who needs support, before it shows up as a final grade.
-- **Solution:** A Streamlit web app where teachers manage class/student data, view performance charts, and get ML-based grade predictions with improvement tips; students can view their own reports.
-- **Main features:** Student & class management, grade prediction, class-performance charts, individual student reports.
-- **Tech stack:** `Python` `Machine Learning` `Data Visualization` `Streamlit` `SQLite`
-- **Learning outcomes:** Applying ML models inside a real application, building data-driven dashboards, and working in a 3-person team on a shared codebase.
-
----
-
 ### 💼 Experience
 
 **Software Engineer Intern** — darkiee
@@ -119,23 +91,6 @@ A web application that helps teachers manage students, classes, subjects, and ac
 ### 🌱 Currently Learning / Interested In
 
 `FastAPI` · `REST API Design` · `SQL & Databases` · `Authentication & Authorization` · `API Security` · `Generative AI` · `Agentic AI` · `LLM Applications` · `Machine Learning` · `Docker` · `Cloud/Deployment`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushpatidar21&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushpatidar21&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushpatidar21&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushpatidar21&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
 
 ---
 
